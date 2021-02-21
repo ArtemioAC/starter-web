@@ -2,3 +2,4 @@
 
 User-agent: *
 Adding a sentence because I dont have the readme file
+More changes from the feature branch too
